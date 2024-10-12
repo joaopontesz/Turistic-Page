@@ -1,0 +1,79 @@
+body {
+  background-color: #29292e;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1280px;
+  padding: 3279px;
+  margin: 88px 80px 137px 80px;
+  background-color: white;
+  padding: 88px 80px 97px 80px;
+}
+
+h5 {
+  color: #e1624f;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+
+h1 {
+  color: #1b1b1b;
+  text-align: left;
+  font-size: 36px;
+  border-bottom: 40px;
+  margin-top: 8px;
+}
+
+img {
+  align: center;
+  border-radius: 28px;
+}
+
+#busan p {
+  text-align: center;
+  font-size: 16px;
+  font-style: italic;
+}
+
+#title h5 {
+  margin-top: 64px;
+}
+
+#title h2 {
+  color: #1b1b1b;
+  text-align: left;
+  font-weight: bold;
+  font-size: 32px;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+#title p {
+  margin-bottom: 64px;
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#Younggungsa p {
+  font-size: 16px;
+}
+
+#Beomeo p {
+  font-size: 16px;
+}
+
+#Youngdusan p {
+  font-size: 16px;
+}
+
+#fim p {
+  font-size: 16px;
+}
